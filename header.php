@@ -28,11 +28,11 @@
       <!-- navbar left -->
 			<div class="nav-left">
         <?php the_custom_logo(); ?>
-        <a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><h3 class="site-title"><?php bloginfo( 'name' ); ?></h3></a>
+        <!-- <a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><h3 class="site-title"><?php bloginfo( 'name' ); ?></h3></a> -->
       </div>
       <!-- navbar middle -->
       <div class="nav-middle">
-
+				<h2>Chandra Shrestha</h2>
       </div>
       <!-- navbar right -->
       <div class="nav-right">
